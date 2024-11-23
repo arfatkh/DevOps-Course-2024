@@ -1,7 +1,7 @@
 # **Muhammad Arfat**  
 ### **🌐 Computer Science Student | Backend Developer | CyberSec Enthusiast**  
 📍 Islamabad, Pakistan  
-📧 [email@arfat.me](mailto:email@arfat.me) | 📱 +92 308 040 8000  
+📧 [email@arfat.me](mailto:email@arfat.me) | 📱 +92308 0408 000  
 🌐 [GitHub](https://github.com/arfatkh) | [LinkedIn](https://linkedin.com/in/arfatkh)  
 
 ![Languages](https://img.shields.io/badge/Code-C%20|%20C++%20|%20Python-blue?logo=python&logoColor=white)  
